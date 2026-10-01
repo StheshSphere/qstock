@@ -1,0 +1,19 @@
+# QStock — Streamlit theme
+# South-African-inspired palette: deep green + gold accents on a clean white base
+# (deep green #007749 and gold #FFB612 echo the national flag).
+#
+# NOTE: Streamlit reads this file from the folder you launch the app from.
+# Run from the repo root:  streamlit run classical/app.py
+
+[theme]
+base = "light"
+primaryColor = "#007749"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F7F4"
+textColor = "#262626"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

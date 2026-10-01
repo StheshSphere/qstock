@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local virtual environment (pinned dependencies live in requirements.txt)
+qstock_env/
+
+# Streamlit
+.streamlit/secrets.toml
